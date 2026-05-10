@@ -24,8 +24,8 @@ think and how defenders respond.
 
 - 📍 Location: Durham, North Carolina
 - 💼 Open to: Cloud Engineer, Cloud Security Engineer, security analyst roles
-- 📧 Contact: [dvnichols256@gmail.com]
-- 🔗 LinkedIn: [linkedin.com/in/dvnichols256]
+- 📧 Contact: [dvnichols256@gmail.com](mailto:dvnichols256@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/dvnichols256](https://www.linkedin.com/in/dvnichols256/)
 - 🎓 Program: [NC State Cybersecurity Bootcamp](https://digitalskills.continuingeducation.ncsu.edu/cybersecurity-bootcamp/)
 
 ---
@@ -177,9 +177,9 @@ response and threat hunting skills developed during my NC State bootcamp.
 I'm actively seeking cloud engineering opportunities in North Carolina and remotely.
 If you're hiring or want to collaborate, let's talk!
 
-- 📧 **Email:** [your.email@example.com]
-- 💼 **LinkedIn:** [Your LinkedIn URL]
-- 🎓 **Bootcamp:** [NC State Cybersecurity Bootcamp](https://digitalskills.continuingeducation.ncsu.edu/cybersecurity-bootcamp/)
+- 📧 Contact: [dvnichols256@gmail.com](mailto:dvnichols256@gmail.com)
+- 🔗 LinkedIn: [linkedin.com/in/dvnichols256](https://www.linkedin.com/in/dvnichols256/)
+- 🎓 Program: [NC State Cybersecurity Bootcamp](https://digitalskills.continuingeducation.ncsu.edu/cybersecurity-bootcamp/)
 
 ---
 
