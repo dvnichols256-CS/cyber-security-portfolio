@@ -11,7 +11,7 @@
 
 ## 👋 About Me
 
-I'm an aspiring Cloud Engineer and a graduate of the **NC State University Cybersecurity
+I'm an aspiring cyber security professional and a graduate of the **NC State University Cybersecurity
 Bootcamp**, offered through NC State Continuing and Lifelong Education in partnership
 with ThriveDX. This 32-week, immersive program gave me a deep, hands-on foundation in
 cybersecurity, networking, cloud security, and threat response.
